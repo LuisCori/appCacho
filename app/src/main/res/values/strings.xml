@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">appCacho</string>
+
+    <string name="btnLanzar">lanzar</string>
+    <string name="btnNuevo">juego nuevo</string>
+
+    <string name="txtResultado">Puntuacion:</string>
+    <string name="txtNumeros">Numeros:</string>
+</resources>
